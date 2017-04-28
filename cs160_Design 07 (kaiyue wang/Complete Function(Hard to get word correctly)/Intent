@@ -1,0 +1,77 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AskMeaningIntent"
+    },
+    {
+      "intent": "DoneIntent"
+    },
+    {
+      "intent": "RestartIntent"
+    },
+    {
+      "intent": "NextIntent"
+    },
+    {
+      "intent": "ContinueIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "diff",
+          "type": "Difficulty"
+        }
+      ],
+      "intent": "DIFFICULTYIntetnt"
+    },
+    {
+      "slots": [
+        {
+          "name": "firstSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "secondSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "thridSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "fourthSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "fifthSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "sixthSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "seventhSlot",
+          "type": "User_Input_Spelling"
+        },
+        {
+          "name": "eighthSlot",
+          "type": "User_Input_Spelling"
+        }
+      ],
+      "intent": "SpellingIntent"
+    },
+    {
+      "intent": "STARTIntent"
+    }
+  ]
+}

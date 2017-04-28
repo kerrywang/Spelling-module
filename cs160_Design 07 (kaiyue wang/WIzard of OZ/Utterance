@@ -1,0 +1,13 @@
+AskMeaningIntent what does it mean
+AskMeaningIntent meaning
+AskMeaningIntent what does it stands for
+DoneIntent Done
+RestartIntent restart
+ContinueIntent continue
+DIFFICULTYIntetnt I want {diff}
+DIFFICULTYIntetnt {diff}
+SpellingIntent  {firstSlot}
+STARTIntent start
+STARTIntent next
+
+AMAZON.HelpIntent what can i say

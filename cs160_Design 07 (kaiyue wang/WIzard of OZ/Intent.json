@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AskMeaningIntent"
+    },
+    {
+      "intent": "DoneIntent"
+    },
+    {
+      "intent": "RestartIntent"
+    },
+    {
+      "intent": "NextIntent"
+    },
+    {
+      "intent": "ContinueIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "diff",
+          "type": "Difficulty"
+        }
+      ],
+      "intent": "DIFFICULTYIntetnt"
+    },
+    {
+      "slots": [
+        {
+          "name": "firstSlot",
+          "type": "User_Word_Input"
+        }
+      ],
+      "intent": "SpellingIntent"
+    },
+    {
+      "intent": "STARTIntent"
+    }
+  ]
+}

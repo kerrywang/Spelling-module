@@ -1,0 +1,25 @@
+DIFFICULTYIntetnt I want {diff}
+DIFFICULTYIntetnt {diff}
+SpellingIntent  {firstSlot}
+SpellingIntent  {firstSlot} {secondSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot} {fourthSlot} {fifthSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot} {fourthSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot} {fourthSlot} {fifthSlot} {sixthSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot} {fourthSlot} {fifthSlot} {sixthSlot} {seventhSlot}
+SpellingIntent  {firstSlot} {secondSlot} {thridSlot} {fourthSlot} {fifthSlot} {sixthSlot} {seventhSlot} {eighthSlot}
+
+
+STARTIntent start
+STARTIntent next
+
+RestartIntent restart
+DoneIntent Done
+
+ContinueIntent continue
+
+AskMeaningIntent what does it mean
+AskMeaningIntent meaning
+AskMeaningIntent what does it stands for 
+  
+AMAZON.HelpIntent what can i say
